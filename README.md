@@ -1,4 +1,10 @@
 # Tugas 1 - Klasifikasi Wine Quality dengan KNN
+
+| Nama              | NRP        |
+|-------------------|------------|
+| (nama)            | (nrp)      |
+
+## Deskripsi Tugas
 Pada tugas ini, kita akan menggunakan Wine Quality Dataset. Dataset bisa diakses melalui link berikut:\
 🔗 https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
 
